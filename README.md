@@ -1,4 +1,4 @@
-# HACSJUnit
+# HACSJUnit SCRIPT FILE
 
 <br/>
 
