@@ -1,0 +1,7 @@
+pepe:CSE510
+pepe:CSE520
+keke:CSE510
+keke:CSE540
+InstA:CSE510
+InstA:CSE520
+InstA:CSE540
